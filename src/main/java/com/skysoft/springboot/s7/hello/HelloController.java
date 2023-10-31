@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class HelloController {
-	
+	//test git
 	
 	@RequestMapping("say-hello")
 	@ResponseBody
