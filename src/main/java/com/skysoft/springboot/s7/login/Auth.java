@@ -6,8 +6,8 @@ import org.springframework.stereotype.Service;
 public class Auth {
 
 	
-	private String mUsername = "ahmed";
-	private String mPassword = "dumypass";
+	private String mUsername = "hama";
+	private String mPassword = "123";
 
 
 	public boolean isAuth(String username,String pass) {
